@@ -1,0 +1,54 @@
+{
+  "entity": "Professional Football Club Global Framework",
+  "target_valuation_usd": 1000000000,
+  "ownership_structure": {
+    "majority_owner_percentage": 60,
+    "public_institutional_percentage": 40,
+    "public_breakdown": {
+      "institutional_investors": 15,
+      "retail_fan_utility_tokens": 25
+    }
+  },
+  "projections_5_years_usd": [
+    {
+      "year": 1,
+      "token_sale_revenue": 150000000,
+      "operational_revenue": 35000000,
+      "player_sales": 15000000,
+      "infrastructure_investment": 60000000,
+      "net_profit": 80000000
+    },
+    {
+      "year": 2,
+      "token_sale_revenue": 150000000,
+      "operational_revenue": 50000000,
+      "player_sales": 25000000,
+      "infrastructure_investment": 80000000,
+      "net_profit": 65000000
+    },
+    {
+      "year": 3,
+      "token_sale_revenue": 100000000,
+      "operational_revenue": 70000000,
+      "player_sales": 40000000,
+      "infrastructure_investment": 40000000,
+      "net_profit": 80000000
+    },
+    {
+      "year": 4,
+      "token_sale_revenue": 25000000,
+      "operational_revenue": 90000000,
+      "player_sales": 45000000,
+      "infrastructure_investment": 15000000,
+      "net_profit": 45000000
+    },
+    {
+      "year": 5,
+      "token_sale_revenue": 30000000,
+      "operational_revenue": 110000000,
+      "player_sales": 60000000,
+      "infrastructure_investment": 10000000,
+      "net_profit": 75000000
+    }
+  ]
+}

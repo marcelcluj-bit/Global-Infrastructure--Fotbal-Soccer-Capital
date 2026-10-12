@@ -1,0 +1,33 @@
+{
+  "project": "Global Infrastructure Capital 1B",
+  "currency": "USD",
+  "target_capital": 1000000000,
+  "acquisition_budget": 25000000,
+  "allocation_breakdown": [
+    {
+      "category": "Legal Services & Compliance",
+      "amount_usd": 8000000,
+      "percentage": 32.0
+    },
+    {
+      "category": "Technical Development & RWA Tokenization",
+      "amount_usd": 5000000,
+      "percentage": 20.0
+    },
+    {
+      "category": "Institutional Marketing & Global Roadshow",
+      "amount_usd": 6000000,
+      "percentage": 24.0
+    },
+    {
+      "category": "Executive Team & Management (24 Months)",
+      "amount_usd": 4000000,
+      "percentage": 16.0
+    },
+    {
+      "category": "Contingency & Reserve Fund",
+      "amount_usd": 2000000,
+      "percentage": 8.0
+    }
+  ]
+}

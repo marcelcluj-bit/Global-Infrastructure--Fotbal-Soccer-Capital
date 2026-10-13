@@ -13,5 +13,11 @@
 
 ---
 
+- [📈 Proiect de Finanțare & Tokenizare RWA (1B USD)](docs/strategic_funding_1b.md) — Model strategic complet pentru atragerea a 1 Miliard USD, analiză stakeholderi, buget de 25M$ și top firme globale de tokenizare (Securitize, Tokeny).
+
+
+---
+
+
 ## 📜 License
 This project is distributed under the **MIT License**.
